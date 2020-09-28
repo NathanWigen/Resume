@@ -1,0 +1,1 @@
+I have made a weather website that shows the current weather for the location the user inputs into the website.
